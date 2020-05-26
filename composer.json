@@ -7,5 +7,10 @@
             "email": "lars.magnusson@sogeti.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "SimpleRouter\\": "src/"
+        }
+    },
     "require": {}
 }
