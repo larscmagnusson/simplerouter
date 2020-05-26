@@ -1,0 +1,11 @@
+{
+    "name": "lars/simple-router",
+    "description": "Supersimple router for mocking",
+    "authors": [
+        {
+            "name": "Lars C. Magnusson",
+            "email": "lars.magnusson@sogeti.com"
+        }
+    ],
+    "require": {}
+}
