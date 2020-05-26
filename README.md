@@ -1,6 +1,8 @@
 # SimpleRouter
 Just supersimple routing.. probably one of 10000 other super simple routing packages 
 
+**So simple that it does not even work :D**
+
 ## Examples
 ```
 GET /base?whaterver
